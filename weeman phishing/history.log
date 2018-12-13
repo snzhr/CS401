@@ -1,0 +1,6 @@
+url = https://ru.linkedin.com/
+port = 8080
+action_url = https://ru.linkedin.com/
+url = https://www.facebook.com/
+port = 8282
+action_url = https://www.facebook.com/
